@@ -1,0 +1,27 @@
+{
+    "protect": false,
+    "allowOption": [],
+    "forbidOption": [],
+    "defaultAreaPrice": 5000,
+    "welcome": "",
+    "pvpAllow": true,
+    "invenSave": true,
+    "autoCreateAllow": true,
+    "manualCreate": true,
+    "areaHoldLimit": 4,
+    "defaultAreaSize": [
+        32,
+        22
+    ],
+    "defaultFenceType": [
+        139,
+        0
+    ],
+    "areaTax": 0,
+    "pricePerBlock": 10,
+    "manualCreateAllow": true,
+    "isAllowAccessDeny": true,
+    "isAllowAreaSizeUp": false,
+    "isAllowAreaSizeDown": false,
+    "isCountShareArea": false
+}
